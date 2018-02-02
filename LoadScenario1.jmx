@@ -381,7 +381,7 @@ vars.put(&quot;encoded_token&quot;,new String(encryptedUid));</stringProp>
           </RegexExtractor>
           <hashTree/>
           <ResultSaver guiclass="ResultSaverGui" testclass="ResultSaver" testname="SaveResponses" enabled="true">
-            <stringProp name="FileSaver.filename"></stringProp>
+            <stringProp name="FileSaver.filename">/Users/mittal/Work/qa_framework/jmeter_testplans/Run1-020218</stringProp>
             <boolProp name="FileSaver.errorsonly">false</boolProp>
             <boolProp name="FileSaver.skipautonumber">false</boolProp>
             <boolProp name="FileSaver.skipsuffix">false</boolProp>
